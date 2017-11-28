@@ -1,0 +1,6 @@
+framework module Pods_ProjectClosures {
+  umbrella header "Pods-ProjectClosures-umbrella.h"
+
+  export *
+  module * { export * }
+}
